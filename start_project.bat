@@ -1,0 +1,6 @@
+@echo off
+echo 正在啟動跌倒偵測專案環境...
+call fall_venv\Scripts\activate
+echo 環境已啟動，正在執行主程式...
+python main.py
+pause
