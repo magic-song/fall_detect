@@ -1,4 +1,3 @@
-test git version
 Python 版本:3.11.4
 Pytorch版本:2.5.0+cu124
 
