@@ -1,9 +1,9 @@
 # 跌倒偵測系統 (Fall Detection System)
 
-基於 **YOLOv11** 與 **PyQt5** 開發的即時監控工具。
+基於 **YOLOv10、YOLOv11、YOLOv11-pose** 與 **PyQt5** 開發的即時監控工具。
 
 ## 🛠 環境設定
-Python 版本:3.11.4
+Python 版本:3.11.4  
 Pytorch版本:2.5.0+cu124
 
 ## 🚀 執行方式
